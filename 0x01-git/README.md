@@ -1,1 +1,1 @@
-My second readme
+This is Victor learning software engineering under the tutolage of ALX program. I hope to become better as the program progresses and i believe everyday and every task is helping me find purpose of fulfilling a desire to become the best in the field. i can see a better me in terms of research, coding, programming and as well solution to the world challenges in the future. And i believe with commitiment, through the process of what i called the D cube, that is; Decision, Determination and Dedication, all these is achievable.
